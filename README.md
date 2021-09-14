@@ -1,7 +1,7 @@
 # YOLOv3을 이용한 영상처리 시스템 구현
 운전자 및 동승자 영상 추출 skeleton 및 딥러닝을 이용한 교통사고 모니터링 시스템 개발 (딥러닝, YOLOv3)
 
-[!영상](http://img.youtube.com/vi/D_dUjy80sQ4/0.jpg)](https://youtu.be/QYNwbZHmh8g?t=0s) 
+[!영상](http://img.youtube.com/vi/D_dUjy80sQ4/0.jpg)](https://youtu.be/D_dUjy80sQ4?t=0s) 
 
 ## :+1: Achievement
 1) 졸업 논문 제출 
