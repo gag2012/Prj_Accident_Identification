@@ -29,20 +29,24 @@ https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10547834
 | :--------------------------- |:------:| -----:|
 | (Leanring) normal state      | 1000   | 62    |
 | (Leanring) accident state    | 1000   | 55    |
-| (Test) accident state        | 855    | 29    |
+| (Test) normal state          | 855    | 29    |
 | (Test) accident state        | 50     | 15    |
+
 
 ## :mag: Content
 - 제안된 긴급구난체계 서비스 시스템 모델  
 ![image](https://user-images.githubusercontent.com/40004210/133212792-a7d027bc-d1ae-4432-a32f-3a50a896dd5c.png)  
 
+
 - 교통사고 발생 시, 사고 감지  
 ![image](https://user-images.githubusercontent.com/40004210/133213065-76072736-dc40-45f6-93fd-f9aff8bfc55d.png)
 ![image](https://user-images.githubusercontent.com/40004210/133213077-31fb1970-57a0-4aa2-abd7-1191c6c0139e.png)  
 
+
 - 교통사고 발생 시, 목 꺾임 감지   
 ![image](https://user-images.githubusercontent.com/40004210/133213285-3c0f0a3a-074d-4f60-95a2-d52e6c933edc.png)
 ![image](https://user-images.githubusercontent.com/40004210/133213290-6d9489e2-4a54-4070-967b-42ae3f08838b.png)  
+
 
 - 긴급 구조기관에 전송하기 위해 데이터 수집 및 처리 시스템에 의해 처리된 데이터  
 ![image](https://user-images.githubusercontent.com/40004210/133213328-12210dac-530d-46d5-ad95-ea8a218fb5bc.png)  
