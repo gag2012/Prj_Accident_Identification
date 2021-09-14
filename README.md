@@ -27,5 +27,5 @@ https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10547834
 ![image](https://user-images.githubusercontent.com/40004210/133212792-a7d027bc-d1ae-4432-a32f-3a50a896dd5c.png)
 
 ![image](https://user-images.githubusercontent.com/40004210/133213065-76072736-dc40-45f6-93fd-f9aff8bfc55d.png)
-![image](https://user-images.githubusercontent.com/40004210/133213077-31fb1970-57a0-4aa2-abd7-1191c6c0139e.png)
+![image](https://user-images.githubusercontent.com/40004210/133213077-31fb1970-57a0-4aa2-abd7-1191c6c0139e.png)  
 교통사고 발생 시
