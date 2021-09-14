@@ -57,13 +57,13 @@ https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10547834
 
 ## :clipboard: Result
 **정확도 검증 결과**  
-| Test classification                | Test item | Accuracy |
-| :--------------------------------- |:---------:| --------:|
-| drive accident and recognize face  | Drive     | 94%      |
-| drive accident and recognize face  | Accident  | 96%      |
-| angle of neck joint                | Pitch     | 94.9%    |
-| angle of neck joint                | Roll      | 92.6%    |
-| detect bleeding                    | Blood loss| 76%      |
+| Test classification                   | Test item | Accuracy |
+| :------------------------------------ |:---------:| --------:|
+| drive accident and recognize face     | Drive     | 94%      |
+| drive accident and recognize face     | Accident  | 96%      |
+| angle of neck joint                   | Pitch     | 94.9%    |
+| angle of neck joint                   | Roll      | 92.6%    |
+| detect bleeding                       | Blood loss| 76%      |
 
 **결론**  
  교통사고가 발생했을 때 짧은 시간 내에 정확한 응급 처치와 적절한 병원 선정을 위한 차량 긴급구난체계 시스템에 대해 제안하였다. 제안된 시스템은 사고 감지 여부 판단 시스템, 환자 상태 분석 시스템, 데이터 처리 및 전송 시스템으로 나뉘어 각각 사고가 발생했을 때 사고 감지 여부 판단과 환자 상태 분석을 진행한다.   
