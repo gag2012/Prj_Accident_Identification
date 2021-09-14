@@ -32,7 +32,7 @@ https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10547834
 교통사고 발생 시, 사고 감지
 
 ![image](https://user-images.githubusercontent.com/40004210/133213285-3c0f0a3a-074d-4f60-95a2-d52e6c933edc.png)
-![image](https://user-images.githubusercontent.com/40004210/133213290-6d9489e2-4a54-4070-967b-42ae3f08838b.png)
+![image](https://user-images.githubusercontent.com/40004210/133213290-6d9489e2-4a54-4070-967b-42ae3f08838b.png)  
 교통사고 발생 시, 목 꺾임 감지 
 
 ![image](https://user-images.githubusercontent.com/40004210/133213328-12210dac-530d-46d5-ad95-ea8a218fb5bc.png)  
